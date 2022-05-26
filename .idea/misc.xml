@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/activity_main.xml" value="0.11730072463768115" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_add_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_detail.xml" value="0.16485507246376813" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_note_app.xml" value="0.16485507246376813" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_profile.xml" value="0.16485507246376813" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/fragment_register.xml" value="0.16485507246376813" />
+        <entry key="..\:/Binar Academy/app/DataBaseNote/app/src/main/res/layout/item_note.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

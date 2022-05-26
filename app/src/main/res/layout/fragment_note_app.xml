@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NoteAppFragment">
+    <ImageView
+        android:layout_margin="10dp"
+        android:id="@+id/avatar"
+        android:src="@drawable/ic_baseline_person_24"
+        android:background="@color/teal_200"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        tools:ignore="ContentDescription" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvNote"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/btn_add"
+        android:layout_below="@id/avatar"/>
+
+    <ImageButton
+        android:layout_margin="10sp"
+        android:src="@drawable/ic_baseline_add_circle_24"
+        android:id="@+id/btn_add"
+        android:background="@color/teal_200"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        tools:ignore="ContentDescription" />
+
+</RelativeLayout>
